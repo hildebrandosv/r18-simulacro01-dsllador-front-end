@@ -4,4 +4,5 @@
    + APP creada en Heroku: "pruebashs".
    + DATA para consumir una tabla de productos: https://pruebashs.herokuapp.com/tbProducts
 - Instalar AXIOS: npm install axios
+- ...
 
